@@ -9,7 +9,7 @@ pip install psutil
 ```
 After that run 
 ```
-passgen.py
+python /example-path-to-file/passgen.py
 ```
 .py file you can find at the Releases tab.
 
